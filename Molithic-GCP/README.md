@@ -2,9 +2,10 @@
 
 ## Requirements
 - A VM with Debian GNU/Linux 11 (bullseye).
-- Preferably with a public IP and ports 80 and 443 opened.
-- An internet conection to that machine.
-- An user with root privileges.
+- Public IP and ports 80 and 443 opened.
+    - Preferably Static or Elastic (name depends on provider).
+- An Internet conection to that machine (i.e. ssh).
+- A user with root privileges (sudo).
 
 ## Install Docker and Docker-Compose
 ```bash
