@@ -2,8 +2,9 @@
 
 ## Requirements
 - A VM with Debian GNU/Linux 11 (bullseye).
-- Public IP and ports 80 and 443 opened.
+- Public IP.
     - Preferably Static or Elastic (name depends on provider).
+- Allow traffic from ports 80 (HTTP) and 443 (HTTPS).
 - An Internet conection to that machine (i.e. ssh).
 - A user with root privileges (sudo).
 
